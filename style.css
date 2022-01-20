@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(#7fff00,#00ff7f,#00ff00,#adff2f)
+}
+
+#user_name{
+    width: 25%;
+    padding-top: 10;
+    padding-bottom: 10;
+    border-radius: 5px;
+    font-family: cursive;
+}
+
+#ID{
+    width: 25%;
+    padding-top: 10;
+    padding-bottom: 10;
+    border-radius: 5px;
+    font-family: cursive;
+}
+
+#PW{
+    width: 25%;
+    padding-top: 10;
+    padding-bottom: 10;
+    border-radius: 5px;
+    font-family: cursive;
+}
+
+
+#log_in{
+    width: 25%;
+    padding-top:5;
+    padding-bottom: 5;
+    border-radius: 5px;
+    background-color:aquamarine;
+    font-family:cursive;
+}
+
+.head{
+    font-family:'Courier New', Courier, monospace
+}
